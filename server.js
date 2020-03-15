@@ -15,3 +15,4 @@ const connection = mysql.createConnection({
     console.log("Connection as id:" + connection.threadId);
     console.log("worked dude")
   });
+
